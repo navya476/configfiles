@@ -1,3 +1,4 @@
+A
 # configfiles
 This is another check
 This is again from 1
