@@ -4,7 +4,7 @@ This is another check
 This is again from 1
 Navya Teja
 this is 7
-chandu
+chandu S
 This is from 1
 This is anther commit
 this is diff
