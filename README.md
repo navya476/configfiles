@@ -2,7 +2,7 @@
 # configfiles
 This is another check
 This is again from 1
-Navya Teja
+navya Teja
 this is 7
 chandu S
 This is from 1
